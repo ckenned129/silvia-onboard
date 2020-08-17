@@ -1,0 +1,10 @@
+{
+  "mqtt": {
+    "endpoint": "antlzbueo7wfk-ats.iot.us-east-1.amazonaws.com",
+    "client_id": "rancilio-silvia",
+    "path_to_cert": ".certificates/87f80d84e2-certificate.pem.crt",
+    "path_to_key": ".certificates/87f80d84e2-private.pem.key",
+    "path_to_root": ".certificates/root.pem",
+    "topic": "silvia-topic"
+  }
+}
